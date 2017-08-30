@@ -10,7 +10,7 @@
 ### Upcoming Assignments
 
 * **Assignment 2 Information Seekeing**
-* **Assignment 3 Data Entry Asnalyis**
+* **Assignment 3 Data Entry Analyis**
 * **Assignment 4 Work plan and RQ's**
 
 ### MIT License 
