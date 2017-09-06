@@ -75,6 +75,30 @@ This is curated collection on Medicare prescription drug spending from 2010 - 20
 
 ##### **Data Description**
 
+This dataset focuses on the Medicare prescription drug spending from 2010-2015. It describes the amount of money spent by the Medicare on different types of coverage i.e. Part B and Part D. The dataset consists of 12 columns and 576 rows.  
+**Variables included in the dataset are:** 'year', 'brand_name', 'generic_name', 'coverage_type', 'total_spending', 'beneficiary_count', 'unit_count', 'beneficiary_cost_share', 'total_annual_spending_per_user', 'average_cost_per_unit', 'average_annual_beneficiary_cost_share', 'claim_count'
+
+##### **License Info**
+
+[**Related License**](https://www.enigma.com/terms-of-service)
+
+##### **Potential data users**
+ Medicare, U.S. Federal Government, U.S. Department of Health & Human Services
+ 
+##### **Questions**
+
+* Which year had the lowest spending on medicare prescribed drugs?
+* Which brand name had the highest unit_count?
+* Which coverage type had the lowest claim_count?
+* Which drug had the highest annual spending by a user?
+
+##### **APA Citation**
+
+public, e. (2016, 12 1). enigma public. Retrieved from Medicare Drug Spending - 2010 - 2015: https://public.enigma.com/datasets/medicare-drug-spending-2010-2015/a4fecc00-1442-4b3c-b6d5-5866feb95f8b
+
+
+
+
 
 
 
