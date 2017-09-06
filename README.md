@@ -10,6 +10,7 @@
 ### Upcoming Assignments
 
 * **Assignment 2 Information Seekeing**
+In this assignment, I have enclosed information about 3 datasets that are public accessible.
 * **Assignment 3 Data Entry Analyis**
 * **Assignment 4 Work plan and RQ's**
 
