@@ -31,6 +31,64 @@ California Department of Public Health, State of California
 .gov, H. (2017). West Nile Virus Cases, 2006-present. Retrieved from HealthData.gov:(https://www.healthdata.gov/dataset/west-nile-virus-cases-2006-present-1)
 
 
+### **Dataset 2**
+
+#### Behavioral Risk Factor Data: Tobacco Use (2011 to 2015)
+
+##### **Why is this data interesting?**
+
+The BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death. The data for the STATE System were extracted from the annual BRFSS surveys from participating states. Tobacco topics included are cigarette smoking status, cigarette smoking prevalence by demographics, cigarette smoking frequency, and quit attempts.
+
+##### **Data Description**
+
+This dataset contains all the information with respect to the tobacco use (cigarette smoking status, cigarette smoking prevalence by demographics, cigarette smoking frequency, and quit attempts.) in each state from 2011-2015. The dataset is used to monitor the tobacco use among adults. This dataset consists of 13 columns and 11680 rows.
+**Variables inculded in the dataset are:** 'Year', 'LocationDesc', 'MeasureDesc', 'Data_Value_Type', 'Data_Value', 'Data_Value_Std_Err', 'Low_Confidence_Limit', 'High_Confidence_limit', 'Sample_Size', 'Gender', 'Race', 'Age', 'Education'
+
+##### **License Info**
+
+[**Related License**](http://opendefinition.org/licenses/odc-odbl/)
+
+##### **Potential data users**
+
+U.S. Department of Health & Human Services, Centres for Disease Control and Prevention (CDC), State Tobacco Activities Tracking and Evaluation (STATE) System
+
+##### **Questions**
+
+* Which state had the highest percentage of current smoking status?
+* Who were more subjected to smoking? Males or females?
+* Among all the races, which race has the lowest pecentage with respect to smoking status?
+* Which year reported the highest percentage of current smoking status?
+* Which state had the highest number of quit smoking attempts?
+
+##### **APA Citation**
+
+.Gov, D. (2016, 05 09). Data Catalog. Retrieved from catalog.data.gov: https://catalog.data.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-to-present-e0ad1
+
+
+### **Dataset 3**
+
+#### Medicare Drug Spending - 2010 - 2015
+
+##### **Why is this data interesting?**
+
+This is curated collection on Medicare prescription drug spending from 2010 - 2015. Medicare Part B is part of Original Medicare and covers services and supplies that are medically necessary to treat your health condition. This can include outpatient care, preventive services, ambulance services and durable medical equipment. Medicare Part D refers to prescription drug coverage. Medicare is a single-payer national social insurance program administered by the US federal government.
+
+##### **Data Description**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
