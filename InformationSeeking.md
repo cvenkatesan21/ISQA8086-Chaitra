@@ -33,7 +33,7 @@ California Department of Public Health, State of California
 
 ### **Dataset 2**
 
-#### Behavioral Risk Factor Data: Tobacco Use (2011 to 2015)
+#### _Behavioral Risk Factor Data: Tobacco Use (2011 to 2015)_
 
 ##### **Why is this data interesting?**
 
@@ -67,7 +67,7 @@ U.S. Department of Health & Human Services, Centres for Disease Control and Prev
 
 ### **Dataset 3**
 
-#### Medicare Drug Spending - 2010 - 2015
+#### _Medicare Drug Spending - 2010 - 2015_
 
 ##### **Why is this data interesting?**
 
