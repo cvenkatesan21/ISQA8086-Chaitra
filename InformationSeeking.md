@@ -21,7 +21,7 @@ California Department of Public Health, State of California
 
 ##### **Questions**
 
-#Which county has the record of the highest number of positive cases associated with the West Nile Virus?
+# Which county has the record of the highest number of positive cases associated with the West Nile Virus?
 #Which year had the lowest number of positive cases associated with the West Nile Virus?
 #Which year had the highest number of positive cases associated with the West Nile Virus?
 #Which five counties had the least number of positive cases associated with the West Nile Virus?
