@@ -41,7 +41,7 @@ The BRFSS is a continuous, state-based surveillance system that collects informa
 
 ##### **Data Description**
 
-This dataset contains all the information with respect to the tobacco use (cigarette smoking status, cigarette smoking prevalence by demographics, cigarette smoking frequency, and quit attempts.) in each state from 2011-2015. The dataset is used to monitor the tobacco use among adults. This dataset consists of 13 columns and 11680 rows.
+This dataset contains all the information with respect to the tobacco use (cigarette smoking status, cigarette smoking prevalence by demographics, cigarette smoking frequency, and quit attempts.) in each state from 2011-2015. The dataset is used to monitor the tobacco use among adults. This dataset consists of 13 columns and 11680 rows  
 **Variables inculded in the dataset are:** 'Year', 'LocationDesc', 'MeasureDesc', 'Data_Value_Type', 'Data_Value', 'Data_Value_Std_Err', 'Low_Confidence_Limit', 'High_Confidence_limit', 'Sample_Size', 'Gender', 'Race', 'Age', 'Education'
 
 ##### **License Info**
