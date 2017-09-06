@@ -15,7 +15,7 @@ In this assignment, I have enclosed information about 3 datasets that are public
 **Dataset 2: Behavioral Risk Factor Data: Tobacco Use (2011 to 2015)**  
 **Dataset 3: Medicare Drug Spending - 2010 - 2015**
 
-* **Assignment 3 Data Entry Analyis**
+* **Assignment 3 Data Entry Analysis**
 
 * **Assignment 4 Work plan and RQ's**
 
