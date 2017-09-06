@@ -24,6 +24,8 @@ California Department of Public Health, State of California
 * Which county has the record of the highest number of positive cases associated with the West Nile Virus?
 * Which year had the lowest number of positive cases associated with the West Nile Virus?
 * Which year had the highest number of positive cases associated with the West Nile Virus?
+* Is the seasonal weather change a cause to the increase or decrease in the west nile virus postitve cases?
+
 * Which five counties had the least number of positive cases associated with the West Nile Virus?
 
 ##### **APA Citation**
