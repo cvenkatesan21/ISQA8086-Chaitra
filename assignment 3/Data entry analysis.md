@@ -11,3 +11,10 @@
 * Data redundancy and irregular collection of data.
 
 > Due to the above mentioned problems in the zooplankton datasets, I suggest a  **data collection system (DCD)**, a computer application that allows data collection, structures information in a systematic fashion, and enalbles data anlysis. Example for a data collection system can be an **interactive system**, a system that allows the users to enter data, validate and verify data, and allows user interaction and error reduction.
+
+#### Table Template 
+
+| Date | Depth (m) | Temperature (degree celcius) | Plankton type | Species name | Colony Density (kg/m3) | Colony Diameter (m) | Time |
+|------|-----------|------------------------------|---------------|--------------|------------------------|---------------------|------|
+|      |           |                              |               |              |                        |                     |      |
+|      |           |                              |               |              |                        |                     |      |
